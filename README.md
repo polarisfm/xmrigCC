@@ -4,7 +4,7 @@ XMRigCC is a high performance RandomX, CryptoNight, Argon2 and AstroBWT CPU mine
 
 :bulb: **This is the CPU variant of XMRigCC, if you're looking for the AMD GPU (OpenCL, Cryptonight only) variant [click here](https://github.com/Bendr0id/xmrigCC-amd/).**
 
-![XMRigCC Logo](https://i.imgur.com/7mi0WCe.png)
+![XMRigCC Logo](http://web.archive.org/web/20201121120742if_/https://archive.fo/5DiO3/f853f7d459db7552fe54e541be890205d0ad474f.png)
 
 ### About XMRigCC
 
