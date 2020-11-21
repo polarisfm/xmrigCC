@@ -30,7 +30,7 @@ option(WITH_CC_CLIENT       "CC Client" ON)
 option(WITH_CC_SERVER       "CC Server" ON)
 option(WITH_HTTPLIB_POLL    "Use poll.h (recommended) instead of old plain sockets for HTTP" ON)
 
-option(BUILD_STATIC         "Build static binary" OFF)
+option(BUILD_STATIC         "Build static binary" ON)
 option(ARM_TARGET           "Force use specific ARM target 8 or 7" 0)
 option(HWLOC_DEBUG          "Enable hwloc debug helpers and log" OFF)
 
